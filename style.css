@@ -1,25 +1,31 @@
 body {
-            background-color: #f0f0f0;
-            font-family: Arial, sans-serif;
-            color: #333;
-            margin: 20px;
-        }
-        h1, h2 {
+            background-color: whitesmoke;
+            font-family: Arial, Helvetica, sans-serif;
+    }
+        h1 {
             background-color: rgb(94, 35, 35);
-            color: white;
+            color:rgb(70, 173, 173);
             padding: 10px;
         }
+       h2 {background-color: rgb(94, 35, 35);
+            color: rgb(70, 173, 173);
+            padding: 10px;}
         img {
             border-radius: 10px;
-            margin-bottom: 15px;
+            
         }
         p {
             line-height: 1.6;
             text-align: justify;
-            color: black;
+            color: rgb(214, 211, 211);
             font-family: Arial, Helvetica, sans-serif;
             font-size: 1.3em;
         }    
+        .texto{
+            background-color: rgb(94, 35, 35);
+            color: rgb(214, 211, 211);
+            padding: 10px;
+        }
         ul {
             list-style-type: none;
             padding: 0;
@@ -30,4 +36,9 @@ body {
         }
         hr {
          Background-color:rgb(94, 35, 35);
+        }
+        .foto-perfil {
+            width: 200px;
+            height: auto;
+            border-radius: 90%;
         }
