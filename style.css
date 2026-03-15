@@ -42,3 +42,10 @@ body {
             height: auto;
             border-radius: 50%;
         }
+        .conteudo{
+            background-color:rgb(80, 34, 34);
+        }
+        #linguagens{
+          text-decoration: none;
+          color: inherit;
+        } 
