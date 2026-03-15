@@ -34,10 +34,11 @@ body {
             padding: 0;
         }
         li {
-            color:blueviolet;         font-size: 20px;
+            color:blueviolet;     
+            font-size: 20px;
         }
         .foto-perfil {
-            width: 250px;
+            width: 200px;
             height: auto;
             border-radius: 50%;
         }
